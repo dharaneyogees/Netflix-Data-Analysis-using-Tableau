@@ -2,7 +2,7 @@
 ![](Pictures/netflix-medium.png)
 
 # Overview
-Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more – on thousands of internet-connected devices. Explore Netflix's content library through data analysis using Tableau for visualization.
+Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more - on thousands of internet-connected devices. Explore Netflix's content library through data analysis using Tableau for visualization.
 
 # Dataset
 The dataset contains details about Netflix movies and TV shows, including 'title',' show_id', 'type', 'director', 'cast', 'country', 'date_added','release_year', 'rating', 'duration', 'listed_in', 'description'.
